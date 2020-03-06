@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "antd": "latest",
+    "moment": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "sweetalert2": "9.8.2"
+  },
+  "keywords": [],
+  "name": "signup-form",
+  "description": ""
+}

@@ -1,0 +1,19 @@
+.App {
+  padding: 20px;
+}
+
+* {
+  transition: opacity 0.8s;
+}
+
+#signup-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.error-span {
+  display: block;
+  background-color: #fdd;
+  padding: 0 4px;
+  width: 100%;
+}
